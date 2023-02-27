@@ -1,0 +1,16 @@
+% Q8
+
+a) exp: Computes the exponential function, which is e raised to the power of a given number. For example, exp(1) returns the value of e (approximately 2.718).
+
+b) log: Computes the natural logarithm of a given number. The natural logarithm is the logarithm to the base e. For example, log(10) returns the value of the natural logarithm of 10 (approximately 2.3026).
+
+c) log2 and log10: Compute the base-2 and base-10 logarithms of a given number, respectively. For example, log2(8) returns the value of the base-2 logarithm of 8 (which is 3), and log10(1000) returns the value of the base-10 logarithm of 1000 (which is 3).
+
+d) sqrt: Computes the square root of a given number. For example, sqrt(9) returns the value of 3.
+
+e) sound: Plays sound data stored in a vector or matrix. The sound data can be in various formats such as waveform, frequency modulation, or white noise. For example, sound(x, Fs) plays the sound data in vector x with a sampling frequency of Fs Hz.
+
+image: Displays grayscale or indexed images. The input image can be in various formats such as 2-D matrix, 3-D matrix, or an indexed image. For example, image(I) displays the grayscale image I.
+
+
+
