@@ -7,4 +7,4 @@ Signals Lab Assignments 6th term communication and electronics department
  
  report
  
-# you can use Chat GPT ✔👀
+# Please in the next Reports take screen shots of your problems 
